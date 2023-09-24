@@ -2,7 +2,7 @@
 This is how you run the code from your computer
 
 ## Here is the link to the **Postman** i created
-[Click here to visit my postman]([https://api.postman.com/collections/28453160-da5b7ecc-0fc7-4ab9-b17c-f0b349258a89?access_key=PMAT-01HB3NBQMCZMXH71A72GPQCHWS](https://drive.google.com/drive/folders/11637tmDibwKfLlHER57cPGrqrDzuHkn5?usp=drive_link))
+[Click here to visit my postman](https://documenter.getpostman.com/view/28453160/2s9YJW5RP5)
 
 ## Install npm
 ``` javascript
