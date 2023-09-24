@@ -1,4 +1,4 @@
-** # How to run the code **
+# How to run the code
 This is how you run the code from your computer
 
 ## Here is the link to the **Postman** i created
