@@ -4,6 +4,11 @@ This is how you run the code from your computer
 ## Here is the link to the **Postman** i created
 [Click here to visit my postman](https://documenter.getpostman.com/view/28453160/2s9YJW5RP5)
 
+## You can clone my repo
+``` javascript
+https://github.com/Alexgo190/sequelize.git
+```
+
 ## Install npm
 ``` javascript
 npm install
